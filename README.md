@@ -3,13 +3,12 @@
 
 В проекте используется следующий стек:
 
-Java 11
-JUnit 4.13.2
-Selenium-Java 3.141.59
-Boni García WebDriverManager 5.3.0
-Maven 4.0.0
+- Java 11
+- JUnit 4.13.2
+- Selenium-Java 3.141.59
+- Boni García WebDriverManager 5.3.0
+- Maven 4.0.0
+
 Задание выполнил:
-
-Рубцов Владислав Олегович
-
-Когорта 45
+- Рубцов Владислав Олегович
+- Когорта 45
